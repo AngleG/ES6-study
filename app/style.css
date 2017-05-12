@@ -1,0 +1,13 @@
+
+body{
+    background: #eee;
+}
+body,html{
+    font-family: '微软雅黑', arial;
+}
+h2{ color: orange;}
+table { border-collapse: collapse;}
+table tr{text-align: center; line-height: 34px;}
+table tr:nth-child(odd){ background: #fff;}
+table tr:nth-child(even){ background: #dfdfdf;}
+table tr th{ background: #73B1E0; color: #fff;}
